@@ -16,3 +16,5 @@ imagen 6:  tablero ventas con chatbot integrado  mediante widget de zendesk chat
 ![image (1)](https://user-images.githubusercontent.com/47221127/72844498-6157a800-3c7b-11ea-8764-401062e8307e.png)
 ![image (2)](https://user-images.githubusercontent.com/47221127/72844501-63216b80-3c7b-11ea-9230-b721ae3b69f8.png)
 ![image (3)](https://user-images.githubusercontent.com/47221127/72844526-72a0b480-3c7b-11ea-9994-58612cbee7c0.png)
+![image](https://user-images.githubusercontent.com/47221127/77708204-2b4de180-6fa6-11ea-8a1e-65954bbafc26.png)
+![image](https://user-images.githubusercontent.com/47221127/77708213-37d23a00-6fa6-11ea-8427-666653668d74.png)
